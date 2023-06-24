@@ -17,6 +17,7 @@ Remove in src file setupTests.js
 Clean file App.js index.js index.css
 Create in src folder pages
 Create in pages file Home.js
+Create in pages file Products.js
 *******************************************************************
 npm i react-router-dom
 *******************************************************************
