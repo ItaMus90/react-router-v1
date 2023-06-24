@@ -1,0 +1,22 @@
+*******************************************************************
+Command
+npx create-react-app .
+
+After removed the unnecessary folders
+npm install
+npm start
+*******************************************************************
+Setup
+Remove in root folder node_modules folder
+Remove in root file package-lock.json file
+Remove in src file App.test.js file
+Remove in src file App.css
+Remove in src file logo.svg
+Remove in src file reportWebVitals.js
+Remove in src file setupTests.js
+Clean file App.js index.js index.css
+
+*******************************************************************
+
+*******************************************************************
+
