@@ -15,8 +15,9 @@ Remove in src file logo.svg
 Remove in src file reportWebVitals.js
 Remove in src file setupTests.js
 Clean file App.js index.js index.css
-
+Create in src folder pages
+Create in pages file Home.js
 *******************************************************************
-
+npm i react-router-dom
 *******************************************************************
 
