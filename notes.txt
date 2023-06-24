@@ -18,6 +18,11 @@ Clean file App.js index.js index.css
 Create in src folder pages
 Create in pages file Home.js
 Create in pages file Products.js
+Create in src folder components
+Create in components file MainNavigation.js
+Create in pages file Root.js
+Create in pages file Root.module.css
+Create in components file MainHeader.module.css
 *******************************************************************
 npm i react-router-dom
 *******************************************************************
