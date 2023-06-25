@@ -36,3 +36,19 @@
     padding-bottom: 0.25rem;
     border-bottom: 4px solid #95bcf0;
 }
+
+.list {
+    display: flex;
+    gap: 1rem;
+}
+
+.list a {
+    text-decoration: none;
+    color: var(--color-primary-400);
+}
+
+.list a:hover,
+.list aactive {
+    color: var(--color-primary-800);
+    text-decoration: underline;
+}
