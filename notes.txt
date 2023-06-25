@@ -23,6 +23,8 @@ Create in components file MainNavigation.js
 Create in pages file Root.js
 Create in pages file Root.module.css
 Create in components file MainHeader.module.css
+Create in pages file Error.js
+Remove in pages file Root.module.css
 *******************************************************************
 npm i react-router-dom
 *******************************************************************
