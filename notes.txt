@@ -25,6 +25,7 @@ Create in pages file Root.module.css
 Create in components file MainHeader.module.css
 Create in pages file Error.js
 Remove in pages file Root.module.css
+Create in pages file ProductDetails.js
 *******************************************************************
 npm i react-router-dom
 *******************************************************************
